@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Do you know which hole to next level?"
 Use the left arrow to go back!
